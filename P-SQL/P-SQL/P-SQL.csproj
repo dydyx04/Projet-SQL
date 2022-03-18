@@ -89,16 +89,61 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="AfficherDatabase.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="AfficherDatabase.Designer.cs">
+      <DependentUpon>AfficherDatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="createTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="createTable.Designer.cs">
+      <DependentUpon>createTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataBase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DataBase.Designer.cs">
+      <DependentUpon>DataBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="deleteDatabases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deleteDatabases.Designer.cs">
+      <DependentUpon>deleteDatabases.cs</DependentUpon>
+    </Compile>
+    <Compile Include="connectionPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="connectionPage.Designer.cs">
+      <DependentUpon>connectionPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewDatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewDatabase.Designer.cs">
+      <DependentUpon>NewDatabase.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="AfficherDatabase.resx">
+      <DependentUpon>AfficherDatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="createTable.resx">
+      <DependentUpon>createTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataBase.resx">
+      <DependentUpon>DataBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deleteDatabases.resx">
+      <DependentUpon>deleteDatabases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="connectionPage.resx">
+      <DependentUpon>connectionPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewDatabase.resx">
+      <DependentUpon>NewDatabase.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

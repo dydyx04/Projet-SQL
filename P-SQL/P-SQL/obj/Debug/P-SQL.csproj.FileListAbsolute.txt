@@ -2,7 +2,6 @@ H:\P-SQL\P-SQL\P-SQL\bin\Debug\P-SQL.exe.config
 H:\P-SQL\P-SQL\P-SQL\bin\Debug\P-SQL.exe
 H:\P-SQL\P-SQL\P-SQL\bin\Debug\P-SQL.pdb
 H:\P-SQL\P-SQL\P-SQL\obj\Debug\P-SQL.csprojAssemblyReference.cache
-H:\P-SQL\P-SQL\P-SQL\obj\Debug\P_SQL.Form1.resources
 H:\P-SQL\P-SQL\P-SQL\obj\Debug\P_SQL.Properties.Resources.resources
 H:\P-SQL\P-SQL\P-SQL\obj\Debug\P-SQL.csproj.GenerateResource.cache
 H:\P-SQL\P-SQL\P-SQL\obj\Debug\P-SQL.csproj.CoreCompileInputs.cache
@@ -31,3 +30,9 @@ H:\P-SQL\P-SQL\P-SQL\bin\Debug\System.Memory.xml
 H:\P-SQL\P-SQL\P-SQL\bin\Debug\System.Numerics.Vectors.xml
 H:\P-SQL\P-SQL\P-SQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 H:\P-SQL\P-SQL\P-SQL\obj\Debug\P-SQL.csproj.CopyComplete
+H:\P-SQL\P-SQL\P-SQL\obj\Debug\P_SQL.NewDatabase.resources
+H:\P-SQL\P-SQL\P-SQL\obj\Debug\P_SQL.deleteDatabases.resources
+H:\P-SQL\P-SQL\P-SQL\obj\Debug\P_SQL.createTable.resources
+H:\P-SQL\P-SQL\P-SQL\obj\Debug\P_SQL.AfficherDatabase.resources
+H:\P-SQL\P-SQL\P-SQL\obj\Debug\P_SQL.DataBase.resources
+H:\P-SQL\P-SQL\P-SQL\obj\Debug\P_SQL.connectionPage.resources
